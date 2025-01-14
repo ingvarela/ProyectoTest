@@ -8,3 +8,5 @@ malvado
 flojillo
 
 el osi furro es muy malvado y no tiene piedad 
+
+NUEVOS CAMBIOS OSIFURRA FLOJILLA 
