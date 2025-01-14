@@ -6,3 +6,5 @@ osi furro
 dormilon 
 malvado
 flojillo
+
+el osi furro es muy malvado y no tiene piedad 
