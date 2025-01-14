@@ -1,3 +1,8 @@
 # ProyectoTest
 Proyecto de prueba para estudiar comandos de git
-SUCIA FURRA
+sucio furro
+malvado 
+osi furro
+dormilon 
+malvado
+flojillo
