@@ -1,0 +1,10 @@
+Accuracy (on test set):
+0.8048780487804879
+Sensistivity or Recall:
+0.64705884
+Specificity:
+0.9166667
+F1-Score:
+0.73333335
+Area Under the Curve (AUC):
+0.7818628
